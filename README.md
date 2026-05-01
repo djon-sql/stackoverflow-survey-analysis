@@ -1,17 +1,16 @@
-# Stack Overflow Developer Survey — Data Analysis
+# 📊 Stack Overflow Developer Survey — Data Analysis
 
-## Project overview
+## 🔍 Project Overview
 
-This project analyzes the Stack Overflow Developer Survey dataset using Python and Pandas.
-The goal was to explore real-world developer data and identify trends in experience, compensation, remote work, and Python usage.
+Analyzed the Stack Overflow Developer Survey dataset (40,000+ respondents) to identify trends in developer compensation, experience, remote work, and technology usage.
 
-Dataset size: **40,000+ respondents**
+The goal was to simulate a real-world data analysis scenario and extract actionable insights from survey data.
 
 🔗 [Interactive report (GitHub Pages)](https://djon-sql.github.io/stackoverflow-survey-analysis/)
 
 ---
 
-## Tools
+## 🛠 Tech Stack
 
 * Python
 * Pandas
@@ -19,34 +18,43 @@ Dataset size: **40,000+ respondents**
 
 ---
 
-## Analysis tasks
+## 📈 Analytical Focus
 
-* Data loading and preprocessing
+* Data cleaning and preprocessing
 * Handling missing values
-* Statistical analysis (mean, median, distributions)
+* Exploratory data analysis (EDA)
 * Salary vs experience analysis
-* Remote work adoption analysis
-* Python usage analysis
-* Country-based aggregation
+* Remote work trends
+* Python adoption analysis
+* Country-level aggregations
 
 ---
 
-## Key findings
+## 📊 Key Insights
 
-* A significant share of developers in the dataset use Python
-* Developers with more experience tend to have higher compensation
+* Developers with more experience tend to have significantly higher compensation
 * Remote work is widely adopted across multiple countries
-* Learning paths often include online courses and self-study
+* Python remains one of the most commonly used programming languages
+* A large portion of developers rely on self-learning and online resources
 
 ---
 
-## Project structure
+## 💡 Business Value
 
-* `index.html` — exported analytical report
-* `README.md` — project description
+* Identified key factors influencing developer salaries
+* Highlighted remote work trends across regions
+* Provided insights into technology adoption (Python usage)
+* Can support HR, hiring, and market analysis decisions
 
 ---
 
-## About
+## 📁 Project Structure
+- [Interactive report](https://djon-sql.github.io/stackoverflow-survey-analysis/) — live dashboard  
+- [`index.html`](index.html) — raw report file  
+- [`README.md`](README.md) — project documentation  
 
-This project was created as part of my Data Analyst portfolio to demonstrate practical skills in data cleaning, aggregation, and exploratory data analysis using Python (Pandas).
+---
+
+## 🚀 About
+
+This project demonstrates practical skills in data cleaning, aggregation, and exploratory data analysis using Python (Pandas) on a real-world dataset.
